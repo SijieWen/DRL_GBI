@@ -33,7 +33,7 @@ Or quickly check the link below: https://swen1.shinyapps.io/Viz_Shiny_Modules/
 ###### Contribution:
 This project is a group task. I corporated with another teammate to complete it.
 
-I mainly responsibel for: 
+I mainly responsible for: 
 
 1. Literature review
 
