@@ -30,3 +30,24 @@ Run the **_SixtyHourProj_** in folder **DDPG** to achieve interactive visualizat
 
 Or quickly check the link below: https://swen1.shinyapps.io/Viz_Shiny_Modules/
 
+###### Contribution:
+This project is a group task. I corporated with another teammate to complete it.
+
+I mainly responsibel for: 
+
+1. Literature review
+
+2. Data selection and portfolio construction
+
+3. Data process
+
+4. Optimize reward function
+
+5. Research useful packages in Python
+
+6. Implement DDPG by using Stable_Baselines library
+
+7. Data visualization
+
+8. Modify and polish the final report
+
