@@ -1,6 +1,10 @@
 # DRL_GBI
 The code and related work of my project - combining (deep) reinforcement learning and goals-based investing
 
+This project has been selected as a top project among the Spring 2020 Business graduation projects. 
+
+A brief can also be found on the Hanlon Lab website: https://fsc.stevens.edu/combining-deep-reinforcement-learning-and-goals-based-investing/
+
 ## Code Design for DDPG
 
 ###### About:
