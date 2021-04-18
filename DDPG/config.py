@@ -1,5 +1,6 @@
 import os
 import datetime
+import numpy as np
 
 START_DATE = '2010-01-04'
 END_DATE = '2020-01-07'
