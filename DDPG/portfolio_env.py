@@ -41,7 +41,7 @@ class PortfolioEnv(gym.Env):
         """
         assert ADD_INVEST.shape[0] == steps + 1, "ADD_INVEST and defined steps must have the same shape"
         datafile = DATA_DIR                 # 'datasets/  .csv'
-        history, abbreviation, data_frame, mu, sigma = read_stock_history(filepath=datafile)
+        history, abbreviation = read_stock_history(filepath=datafile)
         self.history = history              # open,high,low,close,volume
         self.abbreviation = abbreviation    # each asset name in the portfolio
         self.trading_cost = trading_cost
